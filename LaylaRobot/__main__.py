@@ -76,7 +76,6 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hello, I'M Devika
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help
-Maintained by @FlyingKILI ❤
 """
 
 buttons = [
@@ -103,7 +102,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hi.. I'M` Layla
+`Hi.. I'M` Devika
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`
 Powered by :- [Awesome Bots](t.me/zues_bots)"""
 
