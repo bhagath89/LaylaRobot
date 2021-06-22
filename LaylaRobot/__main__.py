@@ -86,7 +86,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="layla_"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/zues_bots"
+            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/FlyingKILI"
         ),
     ],
     [
@@ -110,7 +110,7 @@ layla_IMG = "https://telegra.ph/file/a8cec9eeecc51fdb79fce.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project [Hero](t.me/FlyingKILI) \
- Supporting isnt always financial! [AwesomeSupport](t.me/zues_bots) \
+ Supporting isnt always financial! [Legend](t.me/FlyingKILI) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
@@ -196,7 +196,7 @@ def start(update: Update, context: CallbackContext):
                     update.effective_chat.id,
                     HELPABLE[mod].__help__,
                     InlineKeyboardMarkup(
-                        [[InlineKeyboardButton(text="⬅️ BACK", callback_data="help_back")]]
+                        [[InlineKeyboardButton(text="❤️BACK", callback_data="help_back")]]
                     ),
                 )
 
